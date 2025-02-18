@@ -1,0 +1,5 @@
+pergunta, resposta
+"O que é um algoritmo?","Um algoritmo é uma sequência finita de passos para resolver um problema."
+"Explique o Bubble Sort","O Bubble Sort é um algoritmo de ordenação que compara elementos adjacentes e os troca se estiverem fora de ordem."
+"O que é uma variável?","Uma variável é um espaço de memória utilizado para armazenar dados temporários durante a execução de um programa."
+"O que é a complexidade de um algoritmo?","A complexidade de um algoritmo mede a quantidade de recursos (tempo e/ou espaço) necessários para executar o algoritmo em função do tamanho da entrada."
